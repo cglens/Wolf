@@ -6,7 +6,7 @@
 /*   By: cglens <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/11/14 17:21:38 by cglens            #+#    #+#             */
-/*   Updated: 2016/11/16 14:09:14 by cglens           ###   ########.fr       */
+/*   Updated: 2016/11/16 14:47:52 by cglens           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,8 +21,8 @@
 # include "mlx.h"
 # include "../libft/includes/libft.h"
 # include "../libft/includes/get_next_line.h"
-# define W 2080
-# define H 1500
+# define W 2000
+# define H 1250
 
 typedef struct		s_raycast
 {
