@@ -6,7 +6,7 @@
 /*   By: cglens <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/11/03 17:06:18 by cglens            #+#    #+#             */
-/*   Updated: 2016/11/16 14:39:11 by cglens           ###   ########.fr       */
+/*   Updated: 2016/11/16 16:10:21 by cglens           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -63,7 +63,6 @@ int		key_press(int key, t_tamere *e)
 
 int		key_event(int key, t_tamere *e)
 {
-	printf("key : %d\n", key);
 	if (key == 53)
 		exit(0);
 	else
